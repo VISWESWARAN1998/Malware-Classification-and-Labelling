@@ -1,0 +1,5 @@
+﻿  create_dictionary.cpp
+d:\research\my paper\1\freqdict\freqdict\create_dictionary.cpp(142): warning C4101: 'buffer': unreferenced local variable
+  freqdict.cpp
+  Generating Code...
+  freqdict.vcxproj -> D:\research\my paper\1\freqdict\Debug\freqdict.exe
