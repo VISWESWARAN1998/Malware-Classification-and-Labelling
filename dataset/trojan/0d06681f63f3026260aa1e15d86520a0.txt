@@ -1,0 +1,5 @@
+GetModuleHandleA
+GetProcAddress
+wsprintfW
+RegOpenKeyExW
+ShellExecuteExW

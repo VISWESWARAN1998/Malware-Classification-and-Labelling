@@ -1,0 +1,9 @@
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+VirtualAlloc
+VirtualFree
+ExitProcess
+RegCloseKey
+rand
+wsprintfA

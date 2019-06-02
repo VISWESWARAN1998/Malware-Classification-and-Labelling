@@ -1,0 +1,13 @@
+CloseHandle
+WriteFile
+CreateFileA
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+CreateProcessA
+free
+_initterm
+malloc
+_adjust_fdiv
+sprintf
