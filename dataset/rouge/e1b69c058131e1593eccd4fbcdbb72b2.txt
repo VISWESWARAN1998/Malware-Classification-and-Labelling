@@ -1,0 +1,2 @@
+LoadLibraryA
+GetProcAddress
