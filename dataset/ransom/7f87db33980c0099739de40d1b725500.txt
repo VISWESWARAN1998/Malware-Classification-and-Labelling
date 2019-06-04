@@ -1,0 +1,6 @@
+GetModuleHandleA
+GetProcAddress
+wsprintfA
+CryptEncrypt
+ShellExecuteA
+GetIpAddrTable

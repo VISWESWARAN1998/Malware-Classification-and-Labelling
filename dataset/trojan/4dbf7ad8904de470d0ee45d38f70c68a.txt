@@ -1,0 +1,6 @@
+LoadLibraryA
+EnterCriticalSection
+LeaveCriticalSection
+LocalAlloc
+lstrlenA
+GetProcAddress
