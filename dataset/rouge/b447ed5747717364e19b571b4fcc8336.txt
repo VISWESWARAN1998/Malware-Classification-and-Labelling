@@ -1,0 +1,6 @@
+GetProcAddress
+GetModuleHandleA
+LoadLibraryA
+GetWindowLongW
+__setusermatherr
+RegOpenKeyExA

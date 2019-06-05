@@ -1,0 +1,8 @@
+GetCommandLineA
+VirtualProtect
+GetModuleHandleA
+ExitProcess
+SetConsoleScreenBufferSize
+Heap32ListFirst
+GetLastError
+AdjustTokenGroups

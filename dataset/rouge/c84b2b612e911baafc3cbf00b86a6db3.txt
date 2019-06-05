@@ -1,0 +1,9 @@
+GetProcAddress
+GetCurrentThread
+FlushInstructionCache
+VirtualProtectEx
+ExitProcess
+DestroyCaret
+GetActiveWindow
+GetWindowLongW
+NtReadFile
