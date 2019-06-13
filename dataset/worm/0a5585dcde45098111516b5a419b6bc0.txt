@@ -1,0 +1,11 @@
+GetLongPathNameW
+VirtualFree
+DebugBreak
+GlobalFix
+IsBadStringPtrW
+SetConsoleInputExeNameA
+SetVolumeLabelA
+DuplicateHandle
+FindFirstVolumeMountPointW
+GetProfileSectionA
+VerSetConditionMask

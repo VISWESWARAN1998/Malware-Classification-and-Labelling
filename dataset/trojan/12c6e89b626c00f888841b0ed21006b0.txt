@@ -1,0 +1,6 @@
+VarUI8FromUI2
+ILIsParent
+SystemFunction025
+GetMonitorInfoA
+GetForegroundWindow
+GetSystemDefaultUILanguage

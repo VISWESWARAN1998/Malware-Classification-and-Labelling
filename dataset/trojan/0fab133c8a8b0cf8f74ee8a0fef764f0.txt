@@ -1,0 +1,7 @@
+GetSecurityDescriptorSacl
+VarUI8FromDec
+CoFileTimeNow
+SetLocaleInfoA
+GetLastError
+GetMessageTime
+GetDialogBaseUnits

@@ -1,0 +1,11 @@
+ConnectNamedPipe
+GetProfileIntA
+GetVolumePathNamesForVolumeNameA
+SetConsoleFont
+AllocConsole
+GetProcessHeap
+HeapCreate
+SetFileTime
+HeapDestroy
+GetModuleHandleExW
+ExpandEnvironmentStringsW

@@ -1,0 +1,13 @@
+GetACP
+FindNextFileW
+ReadProcessMemory
+DebugSetProcessKillOnExit
+ReplaceFileW
+CreateJobSet
+AddAtomW
+GetProcessHeaps
+GetLongPathNameA
+MulDiv
+HeapReAlloc
+WaitForSingleObjectEx
+GlobalUnfix

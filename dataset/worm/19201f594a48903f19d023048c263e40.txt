@@ -1,0 +1,10 @@
+DisconnectNamedPipe
+InitializeCriticalSectionAndSpinCount
+GlobalSize
+GetPrivateProfileSectionNamesW
+QueryDosDeviceW
+GetConsoleFontSize
+ContinueDebugEvent
+VerifyConsoleIoHandle
+GetNumberFormatA
+MapViewOfFile

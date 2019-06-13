@@ -1,0 +1,12 @@
+CreateHardLinkW
+UnregisterConsoleIME
+SetConsoleCursorInfo
+GetPrivateProfileStructA
+RegisterConsoleVDM
+BackupRead
+GetUserGeoID
+lstrcmpi
+GetCalendarInfoW
+WriteFileGather
+HeapLock
+SuspendThread

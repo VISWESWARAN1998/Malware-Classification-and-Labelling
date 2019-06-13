@@ -1,0 +1,11 @@
+WriteConsoleA
+GetCurrentDirectoryW
+SetPriorityClass
+LZOpenFileA
+LeaveCriticalSection
+CompareStringW
+GetDllDirectoryW
+CreateWaitableTimerA
+GetExitCodeProcess
+GetCalendarInfoA
+IsBadHugeWritePtr

@@ -1,0 +1,10 @@
+GetNativeSystemInfo
+WriteConsoleOutputCharacterW
+MoveFileWithProgressA
+GetSystemPowerStatus
+WriteConsoleOutputA
+RegisterWaitForSingleObjectEx
+FindResourceW
+SetConsoleCursorInfo
+Process32First
+SetConsoleNumberOfCommandsW

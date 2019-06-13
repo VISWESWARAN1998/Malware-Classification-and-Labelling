@@ -1,0 +1,11 @@
+ReadConsoleInputW
+DnsHostnameToComputerNameW
+Sleep
+ReadConsoleInputExA
+WriteProfileSectionW
+HeapReAlloc
+GetConsoleAliasExesW
+PeekConsoleInputA
+SetLastError
+CreateTimerQueueTimer
+FreeEnvironmentStringsW

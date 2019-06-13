@@ -1,0 +1,11 @@
+CreateWaitableTimerA
+QueryInformationJobObject
+SetFilePointer
+GetConsoleTitleA
+SetupComm
+ResetEvent
+SetFileApisToANSI
+AddRefActCtx
+InterlockedExchangeAdd
+SetUnhandledExceptionFilter
+RegisterConsoleIME

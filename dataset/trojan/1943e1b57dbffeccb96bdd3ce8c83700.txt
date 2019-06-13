@@ -1,0 +1,7 @@
+GetCommandLineW
+LCMapStringA
+VARIANT_UserFree
+AddAccessAllowedAce
+WSAGetServiceClassNameByClassIdW
+GetProcessWindowStation
+GetClipboardSequenceNumber
