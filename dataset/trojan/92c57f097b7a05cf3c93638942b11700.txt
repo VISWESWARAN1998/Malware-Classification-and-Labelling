@@ -1,0 +1,3 @@
+ImpersonateAnonymousToken
+GetCommandLineA
+GetCommandLineW

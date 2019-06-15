@@ -1,0 +1,10 @@
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+VirtualAlloc
+VirtualFree
+GetTempPathA
+CreateFileA
+WriteFile
+CloseHandle
+ExitProcess

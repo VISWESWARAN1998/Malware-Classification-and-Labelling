@@ -1,0 +1,7 @@
+RtlSetAttributesSecurityDescriptor
+ZwSetHighWaitLowEventPair
+ZwDeleteValueKey
+NtReplyPort
+GetDialogBaseUnits
+GetMessageExtraInfo
+GetConsoleWindow

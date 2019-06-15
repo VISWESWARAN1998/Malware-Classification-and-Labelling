@@ -1,0 +1,5 @@
+NtSetVolumeInformationFile
+RtlAddAccessDeniedAce
+SysFreeString
+GetVersion
+GetProcessHeap

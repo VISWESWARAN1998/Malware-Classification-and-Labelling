@@ -1,0 +1,14 @@
+GetModuleHandleA
+LoadLibraryA
+GetProcAddress
+ExitProcess
+VirtualAlloc
+VirtualFree
+GetModuleHandleA
+LoadLibraryA
+GetProcAddress
+ExitProcess
+VirtualAlloc
+VirtualFree
+MessageBoxA
+MessageBoxA

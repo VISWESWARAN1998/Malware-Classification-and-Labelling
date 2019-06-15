@@ -1,0 +1,7 @@
+VarDecFromBool
+VarCyCmp
+GetSystemDefaultUILanguage
+GetCurrentProcessId
+FindFirstChangeNotificationW
+GetDoubleClickTime
+GetWindowContextHelpId

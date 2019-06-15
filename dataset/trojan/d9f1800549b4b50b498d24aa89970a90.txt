@@ -1,0 +1,3 @@
+GetHGlobalFromILockBytes
+GetMessagePos
+GetThreadLocale

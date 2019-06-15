@@ -1,0 +1,7 @@
+GetWindowLongW
+GetKeyboardLayout
+GetFocus
+GetSysColor
+GetMenuCheckMarkDimensions
+VarDecFromBool
+GetThreadLocale

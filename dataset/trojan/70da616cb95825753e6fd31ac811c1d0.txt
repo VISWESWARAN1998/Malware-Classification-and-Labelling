@@ -1,0 +1,7 @@
+ILIsParent
+IsTextUnicode
+RtlInitializeSListHead
+RtlxAnsiStringToUnicodeSize
+GetInputState
+GetMenuCheckMarkDimensions
+GetUserDefaultLCID

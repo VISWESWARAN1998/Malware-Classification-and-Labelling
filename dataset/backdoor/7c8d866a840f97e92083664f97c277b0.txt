@@ -1,0 +1,11 @@
+ExitProcess
+FindFirstFileA
+FindNextFileA
+FindResourceA
+FreeResource
+GetCurrentProcessId
+HeapAlloc
+VirtualAlloc
+VirtualProtect
+lstrlenA
+MessageBoxA

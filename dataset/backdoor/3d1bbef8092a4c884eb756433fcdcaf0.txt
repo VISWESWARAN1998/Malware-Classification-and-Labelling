@@ -1,0 +1,11 @@
+GetProcAddress
+GetModuleHandleA
+LoadLibraryA
+GetKeyboardType
+RegQueryValueExA
+SysFreeString
+OpenProcessToken
+VerQueryValueA
+PostMessageA
+SafeArrayPtrOfIndex
+SHGetSpecialFolderLocation

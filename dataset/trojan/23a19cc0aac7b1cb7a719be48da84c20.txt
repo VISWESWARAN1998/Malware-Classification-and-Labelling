@@ -1,0 +1,4 @@
+NtQueryOpenSubKeys
+VarBoolFromUI1
+GetClipboardSequenceNumber
+GetMessagePos

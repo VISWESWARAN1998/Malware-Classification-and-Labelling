@@ -1,0 +1,7 @@
+RtlSeekMemoryStream
+GetLengthSid
+LsaSetDomainInformationPolicy
+CallNamedPipeA
+GetCurrentProcess
+GetInputState
+GetDoubleClickTime

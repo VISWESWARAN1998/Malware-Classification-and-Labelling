@@ -1,0 +1,7 @@
+SystemFunction001
+ConvertSidToStringSidA
+SetLocalPrimaryComputerNameA
+GetVersionExW
+GetMessageExtraInfo
+GetProcessWindowStation
+GetCursor

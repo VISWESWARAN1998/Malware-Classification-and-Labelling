@@ -1,0 +1,7 @@
+LsaLookupNames
+GetMultipleTrusteeOperationA
+VarBstrFromI1
+VarR8FromI1
+GetDoubleClickTime
+GetCapture
+GetSystemDefaultUILanguage

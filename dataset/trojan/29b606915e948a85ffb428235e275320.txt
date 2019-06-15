@@ -1,0 +1,6 @@
+MkParseDisplayName
+BindIoCompletionCallback
+DAD_DragEnterEx
+GetClipboardOwner
+CopyIcon
+GetCursor

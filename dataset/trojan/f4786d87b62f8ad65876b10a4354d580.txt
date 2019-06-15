@@ -1,0 +1,7 @@
+GetMultipleTrusteeA
+BuildTrusteeWithNameW
+GetCurrentProcess
+GetAtomNameW
+GetDevicePowerState
+GetProcessWindowStation
+GetDoubleClickTime

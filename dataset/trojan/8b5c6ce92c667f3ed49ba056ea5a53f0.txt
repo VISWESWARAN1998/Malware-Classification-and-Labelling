@@ -1,0 +1,15 @@
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+VirtualAlloc
+VirtualFree
+ExitProcess
+GetKeyboardType
+RegQueryValueExA
+SysFreeString
+TlsSetValue
+OpenProcessToken
+lstrlenW
+MessageBoxA
+Sleep
+SafeArrayPtrOfIndex

@@ -1,0 +1,6 @@
+RtlEnlargedUnsignedMultiply
+ZwRemoveProcessDebug
+GetCurrentThreadId
+CreateProcessA
+GetMessageExtraInfo
+GetScrollRange

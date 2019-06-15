@@ -1,0 +1,16 @@
+Format
+Recover
+Chkdsk
+SE_InstallAfterInit
+SE_InstallBeforeInit
+AuthzFreeContext
+AuthzAddSidsToContext
+CreateFileA
+GetLogicalDriveStringsW
+SetCurrentDirectoryA
+SetConsoleTitleW
+WaitForSingleObject
+GetModuleHandleA
+GetProcAddress
+GetFileAttributesW
+GetGeoInfoW

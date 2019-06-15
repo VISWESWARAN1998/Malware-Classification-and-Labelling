@@ -1,0 +1,7 @@
+VarBoolFromI2
+LdrQueryImageFileExecutionOptions
+GetCommandLineA
+GetUserDefaultLCID
+SetCommConfig
+CoTestCancel
+GetFocus

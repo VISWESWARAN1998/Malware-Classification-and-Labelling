@@ -1,0 +1,5 @@
+RtlFreeThreadActivationContextStack
+ZwLoadKey2
+ZwImpersonateClientOfPort
+GetProcessHeap
+GetShellWindow

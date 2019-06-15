@@ -1,0 +1,5 @@
+CoGetInterceptorFromTypeInfo
+MoveFileWithProgressA
+DosDateTimeToFileTime
+GetClipboardViewer
+GetProcessWindowStation

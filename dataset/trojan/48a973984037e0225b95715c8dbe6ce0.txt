@@ -1,0 +1,16 @@
+ExitThread
+GetLastError
+GetProcAddress
+LoadLibraryA
+RtlZeroMemory
+CreateThread
+lstrcpyA
+WaitForSingleObject
+OutputDebugStringA
+ExitProcess
+_wcsnicmp
+TranslateMessage
+GetMessageA
+DispatchMessageW
+wvsprintfA
+IsPwrShutdownAllowed

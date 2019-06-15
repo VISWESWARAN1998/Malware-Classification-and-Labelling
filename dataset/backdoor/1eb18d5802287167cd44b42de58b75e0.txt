@@ -1,0 +1,9 @@
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+VirtualAlloc
+VirtualFree
+ExitProcess
+RegCreateKeyA
+__dllonexit
+??0_Winit@std@@QAE@XZ

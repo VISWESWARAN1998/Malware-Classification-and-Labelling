@@ -1,0 +1,5 @@
+DcomChannelSetHResult
+Toolhelp32ReadProcessMemory
+NotifyBootConfigStatus
+GetKBCodePage
+GetCursor

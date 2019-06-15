@@ -1,0 +1,7 @@
+SystemFunction022
+WSCDeinstallProvider
+RtlFreeAnsiString
+NtCloseObjectAuditAlarm
+GetProcessHeap
+GetCommandLineW
+GetLastError

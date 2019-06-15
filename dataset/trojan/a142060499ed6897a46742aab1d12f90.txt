@@ -1,0 +1,2 @@
+LocalAlloc
+VirtualAllocEx
