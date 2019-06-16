@@ -1,0 +1,7 @@
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+VirtualAlloc
+VirtualFree
+ExitProcess
+wvsprintfA

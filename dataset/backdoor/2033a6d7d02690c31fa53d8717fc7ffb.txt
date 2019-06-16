@@ -1,0 +1,6 @@
+LoadLibraryA
+GetProcAddress
+VirtualAlloc
+VirtualProtect
+VirtualFree
+GetModuleHandleA
