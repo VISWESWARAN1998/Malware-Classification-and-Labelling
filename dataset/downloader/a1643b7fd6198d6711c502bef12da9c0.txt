@@ -1,0 +1,7 @@
+ImageList_Create
+ImageList_DrawEx
+CreateToolbar
+CreateIcon
+CopyIcon
+LoadMenuA
+DialogBoxParamW
